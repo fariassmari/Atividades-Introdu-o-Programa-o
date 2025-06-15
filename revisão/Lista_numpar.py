@@ -1,3 +1,8 @@
+"""
+Escreva um programa, em Python, para ler 6 (seis) números inteiros. Ao final, exiba todos
+os números pares que foram informados.
+"""
+
 lista = []
 
 for i in range(6):
