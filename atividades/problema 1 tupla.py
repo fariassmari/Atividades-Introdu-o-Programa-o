@@ -7,7 +7,7 @@ Ao final, exibir:
 
 produtos = []
 
-for i in range(2):
+for i in range(20):
     codigo = int(input(f'Digite o código do produto {i + 1}: '))
     descricao = input(f'Digite a descricao do produto {i + 1}: ')
     preco = float(input(f'Digite o preço do produto {i + 1}: '))
